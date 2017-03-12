@@ -1,0 +1,11 @@
+{
+    "name": "shopping-basket-nodejs",
+    "version": "0.0.1",
+    "description": "Simple program that calculates the price of a shopping basket",
+    "author": "contact@softwarelondon.net",
+    "scripts": {
+        "start": "node src/main.js"
+    },
+    "dependencies": {},
+    "devDependencies": {}
+}

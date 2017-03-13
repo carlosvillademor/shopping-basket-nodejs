@@ -9,6 +9,11 @@ Write a simple program that calculates the price of a shopping basket. Items are
 
 Given a list of shopping, calculate the total cost of those items. The output should be displayed similar to what you would expect to see on a receipt.
 
+## Requirements 
+
+- Node.js >= 5.12.0
+- npm >= 3.8.6
+
 ## Quick start
 
 Install project by command
